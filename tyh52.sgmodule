@@ -1,5 +1,5 @@
 {
-    "description": "https://github.com/124379216/QuantumultX/blob/master/tyh52.json",
+    "description": "https://github.com/124379216/QuantumultX/blob/master/tyh52.sgmodule",
     "name": "tyh52",
     "task": [
         "0 11 1 * * * * https://cdn.staticaly.com/gh/small-redguy/helper/main/script/jd_lotteryMachine.js,  tag=京东抽奖机, img-url=https://cdn.staticaly.com/gh/small-redguy/helper/main/script/jd_lotteryMachine.js, enabled=true",
